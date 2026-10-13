@@ -2,12 +2,12 @@
 ![nullsec-preview](nullsec.jpg)
 
 <p align="center">
-  <strong>300+ Hacking Tools Installer – Cyberpunk Neon Edition</strong><br>
-  <em>"To fight, you need the right tools. Here they are." – Mr.X</em>
+  <strong>300+ Hacking Tools Installer â€“ Cyberpunk Neon Edition</strong><br>
+  <em>"To fight, you need the right tools. Here they are." â€“ Mr.X</em>
 </p>
 
 ## Introduction
-Nullsec Installer is a powerful Python-based tool installer designed for Linux and Termux users. It integrates **300+ popular penetration testing, OSINT, exploitation, and forensics tools** directly from their original GitHub repositories. With a futuristic cyberpunk neon interface, Nullsec makes it easy to browse, install, and manage a vast arsenal of security tools—all with a single command. It also includes extra features like freedom tools, live cyber attack monitoring, and anti surveillance resources. Nullsec runs smoothly on **Termux (Android)**, Linux, and any Unix-like environment—**no root required**.
+Nullsec Installer is a powerful Python-based tool installer designed for Linux and Termux users. It integrates **300+ popular penetration testing, OSINT, exploitation, and forensics tools** directly from their original GitHub repositories. With a futuristic cyberpunk neon interface, Nullsec makes it easy to browse, install, and manage a vast arsenal of security toolsâ€”all with a single command. It also includes extra features like freedom tools, live cyber attack monitoring, and anti surveillance resources. Nullsec runs smoothly on **Termux (Android)**, Linux, and any Unix-like environmentâ€”**no root required**.
 
 ## Installation
 ```bash
@@ -24,16 +24,16 @@ $ python3 nullsec.py
 ```
 
 ## Features
-- **300+ Tools** – Metasploit, Nmap, SQLMap, Hydra, Aircrack-ng, Wifite, Bettercap, BeEF, Zphisher, and many more.
-- **Direct GitHub Cloning** – Each tool is cloned from its original repository.
-- **Tool Descriptions** – View detailed descriptions for every tool.
-- **Single or Bulk Installation** – Install one tool or all 300+ at once.
-- **Freedom Tools** – Discover privacy-focused apps (Signal, Element, Briar, Session, etc.).
-- **Kill the Deflock** – Learn about Deflock surveillance and locate it on a map.
-- **Live Cyber Attack Monitor** – View realtime cyber attacks via Kaspersky Cybermap.
-- **Cyberpunk UI** – Neon colors, matrix effect, loading animations, and a red/white ASCII banner.
-- **Termux Optimized** – Works flawlessly on Android without root.
-- **No Root Required** – Uses standard Python and Git.
+- **300+ Tools** â€“ Metasploit, Nmap, SQLMap, Hydra, Aircrack-ng, Wifite, Bettercap, BeEF, Zphisher, and many more.
+- **Direct GitHub Cloning** â€“ Each tool is cloned from its original repository.
+- **Tool Descriptions** â€“ View detailed descriptions for every tool.
+- **Single or Bulk Installation** â€“ Install one tool or all 300+ at once.
+- **Freedom Tools** â€“ Discover privacy-focused apps (Signal, Element, Briar, Session, etc.).
+- **Kill the Deflock** â€“ Learn about Deflock surveillance and locate it on a map.
+- **Live Cyber Attack Monitor** â€“ View realtime cyber attacks via Kaspersky Cybermap.
+- **Cyberpunk UI** â€“ Neon colors, matrix effect, loading animations, and a red/white ASCII banner.
+- **Termux Optimized** â€“ Works flawlessly on Android without root.
+- **No Root Required** â€“ Uses standard Python and Git.
 
 ## Menu Options
 | #  | Option | Description |
@@ -54,12 +54,12 @@ $ python3 nullsec.py
 ## Instructions
 1. **Install** the tool using the commands above.
 2. **Run** `python3 nullsec.py` to start.
-3. **Browse tools** – Use option 1 to list all available tools.
-4. **Install a single tool** – Use option 2 and enter the tool number.
-5. **Install all tools** – Use option 3 (this will take a long time and require disk space).
-6. **View descriptions** – Use option 8 to learn what each tool does.
-7. **Explore extra features** – Options 10, 12, and 13 provide freedom tools and live attack maps.
-8. **Exit** – Use option 11 or press Ctrl+C anytime.
+3. **Browse tools** â€“ Use option 1 to list all available tools.
+4. **Install a single tool** â€“ Use option 2 and enter the tool number.
+5. **Install all tools** â€“ Use option 3 (this will take a long time and require disk space).
+6. **View descriptions** â€“ Use option 8 to learn what each tool does.
+7. **Explore extra features** â€“ Options 10, 12, and 13 provide freedom tools and live attack maps.
+8. **Exit** â€“ Use option 11 or press Ctrl+C anytime.
 
 ## Observation
 This tool is intended for **educational and authorized security testing purposes only**. All tools are cloned from public GitHub repositories and are the property of their respective owners. Unauthorized use of these tools against systems you do not own or have explicit permission to test is illegal. The author assumes no responsibility for misuse or damage caused by this tool.
@@ -71,13 +71,13 @@ This tool is intended for **educational and authorized security testing purposes
 
 ## CONNECT WITH ME :
 
-[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrx.pages.dev)
-[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=googlechrome)](https://whomrx.pages.dev) <br>
+[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com) <br>
+[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666) <br>
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X) <br>
+[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666) <br>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X) <br>
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com) <br>
 [![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)
 
 **If you want to donate, click on the button**
