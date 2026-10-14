@@ -30,7 +30,7 @@ $ python3 nullsec.py
 - **Single or Bulk Installation** – Install one tool or all 300+ at once.
 - **Freedom Tools** – Discover privacy-focused apps (Signal, Element, Briar, Session, etc.).
 - **Kill the Deflock** – Learn about Deflock surveillance and locate it on a map.
-- **Live Cyber Attack Monitor** – View realtime cyber attacks via Kaspersky Cybermap.
+- **Live Cyber Attack Monitor** – View real time cyber attacks via Kaspersky Cybermap.
 - **Cyberpunk UI** – Neon colors, matrix effect, loading animations, and a red/white ASCII banner.
 - **Termux Optimized** – Works flawlessly on Android without root.
 - **No Root Required** – Uses standard Python and Git.
